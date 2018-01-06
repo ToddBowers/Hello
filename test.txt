@@ -1,2 +1,4 @@
 Some text.
-Some more text.
+Again! some more text!!!
+I deleted the second line.
+I also added a new line!
